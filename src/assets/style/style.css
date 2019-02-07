@@ -1,0 +1,28 @@
+iframe {
+  height: 100vh;
+}
+#border-polos {
+  border: 1px solid #000;
+  margin-top: 50px;
+  padding-top: 5px;
+}
+.margin-top {
+  margin-top: 40vh;
+  text-align: center;
+}
+#btnblue {
+  padding: 10px 100px;
+  border-radius: 0px !important;
+}
+#border-courses {
+  border: 2px solid #000;
+  margin-top: 20px;
+  padding: 10px;
+}
+.position-rigth {
+  float: right;
+}
+#row {
+  margin-left: 0px;
+  margin-top: 10vh;
+}
